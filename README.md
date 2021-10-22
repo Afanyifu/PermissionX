@@ -4,4 +4,5 @@
 repositories {
     mavenCentral()
 }
+
 implementation 'io.github.Afanyifu:livery:1.0.0'
